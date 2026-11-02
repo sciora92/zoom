@@ -1,0 +1,180 @@
+ html 
+
+{background-color: #06a;}
+
+
+a {color: rgba(230, 230, 255, 0.9); text-decoration: none;}
+ 
+a:hover {color:#222; text-decoration:none;}
+
+
+@font-face 
+{
+    font-family: calibri;
+    src: url(fonts/calibri.woff);
+}
+
+
+body
+
+{ background-color:#06a;
+
+	width:55vw;
+        height:auto;
+        margin-left:auto;
+        margin-right:auto;
+}
+
+
+
+.photobox 
+{       
+        width:15vw;
+        float:left;
+        height:auto;
+        margin-left:1vw;
+        margin-right:1vw;
+        margin-top:2vw;
+        margin-bottom:1vw;      
+}
+
+.photobox2 
+{       
+        width:15vw;
+        float:left;
+        height:auto;
+        margin-left:3vw;
+        margin-right:3vw;
+        margin-top:2vw;
+        margin-bottom:1vw;
+                   
+}
+
+.tmb
+{
+        width:15vw;
+        height:auto;
+        float:left;
+        box-shadow:0.2vw 0.2vw 0.3vw rgba(09,09,09,0.5);
+        border-radius:0.8vw;
+}
+
+.tmb2
+{
+        width:15vw;
+        height:auto;
+        float:left;   
+}
+
+hr 
+{
+        height: 0.1vw;
+        width:54vw;
+        background-image:linear-gradient(to right,rgba(0,190,255,0),rgba(0,190,255,0.6),rgba(0,190,255,0));
+        border: none;
+}
+
+
+.textbox 
+{
+        width:15vw;
+        float:left;
+        height:auto;
+        margin-left:1vw;
+        margin-right:1vw;
+        margin-bottom:1vw;
+        font-family:calibri,arial,sans-serif; font-style: italic;
+        text-shadow: 0.1vw 0.1vw 0.2vw rgba(9, 9, 9, 0.5);
+        color:rgba(230, 230, 255, 0.9);
+        font-size:1.4vw;
+        font-weight:400;
+        text-align:center; 
+          
+}
+
+.textbox2 
+{
+        width:15vw;
+        float:left;
+        height:auto;
+        margin-left:3vw;
+        margin-right:3vw;
+        margin-bottom:1vw;
+        font-family:calibri,arial,sans-serif; font-style: italic;
+        text-shadow: 0.1vw 0.1vw 0.2vw rgba(9, 9, 9, 0.5);
+        color:rgba(230, 230, 255, 0.9);
+        font-size:1.4vw;
+        font-weight:400;
+        text-align:center;    
+}
+
+.textbox3 
+{
+        width:43vw;
+        float:left;
+        height:auto;
+        margin-top:1vw;
+        margin-left:6vw;
+        margin-right:6vw;
+        margin-bottom:1.5vw;       
+}
+
+
+.footer 
+{
+        width:55vw;
+        float:left;
+        height:auto;
+        margin-bottom:1vw;
+        padding:1vw 0vw 1vw 0vw;
+        font-family:calibri,arial,sans-serif; font-style: italic;
+        text-shadow: 0.1vw 0.1vw 0.2vw rgba(9, 9, 9, 0.5);
+        color:rgba(230, 230, 255, 0.9);
+        font-size:1.3vw;
+        font-weight:400;
+        text-align:center; 
+        border-radius:1vw;   
+}
+
+
+
+
+
+p {
+        font-family: calibri, arial, sans-serif; font-style: italic;
+        font-size:calc(0.6rem + 0.5vw);
+        padding:0vw 2vw 0vw 2vw;
+        text-shadow: 0.1vw 0.1vw 0.1vw rgba(9, 9, 9, 0.5);
+        color: rgba(230,230,255,0.9);
+        text-align:justify;   
+}
+
+
+h1  {
+        font-family:Calibri,arial, sans-serif;font-style: italic;
+        font-size: 3.5vw;
+        margin-top:1vw;
+        margin-bottom:0vw;
+        text-shadow: 0.2vw 0.2vw 0.3vw rgba(9, 9, 9, 0.5);
+        font-weight: 400;
+        color: rgba(230,230,255,0.9);
+        text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
